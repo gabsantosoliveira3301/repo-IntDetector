@@ -21,7 +21,7 @@ Atividade AdolphoBerezin Lista EXERCÍCIOS ESTRUTURAS DE REPETIÇÃO.
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 O programa processa os 10 valores inseridos e exibe instantaneamente:
 - **Maior valor** do conjunto.
