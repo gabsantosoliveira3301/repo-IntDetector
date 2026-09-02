@@ -16,9 +16,8 @@ Atividade AdolphoBerezin Lista EXERCÍCIOS ESTRUTURAS DE REPETIÇÃO.
 
 ## Preview (Versão 0.1)
 
-<p align="center">
-  <img width="606" height="412" alt="Preview IntDetector V0.1" src="https://github.com">
-</p>
+<img width="606" height="412" alt="Capturar-removebg-preview" src="https://github.com/user-attachments/assets/5345f4a3-28fc-4a65-b2bb-d670bfe26013" />
+
 
 ---
 
